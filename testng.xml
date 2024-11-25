@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Capstone Suite" parallel="tests" thread-count="3">
+	<test name="Test Stocks chrome">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="tests.TestStock" />
+		</classes>
+	</test>
+	<test name="Test Stocks Edge">
+		<parameter name="browser" value="Edge" />
+		<classes>
+			<class name="tests.TestStock" />
+		</classes>
+	</test>
+	<test name="Test Stocks firefox">
+		<parameter name="browser" value="Firefox" />
+		<classes>
+			<class name="tests.TestStock" />
+		</classes>
+	</test>
+</suite>
