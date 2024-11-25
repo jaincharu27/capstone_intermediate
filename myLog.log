@@ -1,0 +1,32 @@
+[INFO ] 2024-11-25 11:28:32,469 tests.BaseTest:67 - Edge driver instantiated
+[INFO ] 2024-11-25 11:28:32,469 tests.BaseTest:57 - Chrome driver instantiated
+[INFO ] 2024-11-25 11:28:32,602 tests.BaseTest:75 - Implicit wait applied on the driver for 1 seconds
+[INFO ] 2024-11-25 11:28:32,602 tests.BaseTest:75 - Implicit wait applied on the driver for 1 seconds
+[INFO ] 2024-11-25 11:28:32,604 tests.BaseTest:77 - Url fetched from config properties
+[INFO ] 2024-11-25 11:28:32,604 tests.BaseTest:77 - Url fetched from config properties
+[INFO ] 2024-11-25 11:28:35,212 tests.BaseTest:79 - Web application NSE launched
+[INFO ] 2024-11-25 11:28:36,117 actions.BasePage:28 - Search box found
+[INFO ] 2024-11-25 11:28:36,312 actions.BasePage:30 - Search box clicked
+[INFO ] 2024-11-25 11:28:36,484 actions.BasePage:32 - Stock name: adanient entered in search box
+[INFO ] 2024-11-25 11:28:37,196 actions.BasePage:37 - Search listing found
+[INFO ] 2024-11-25 11:28:37,303 actions.BasePage:39 - Stock name found
+[INFO ] 2024-11-25 11:28:39,075 tests.BaseTest:79 - Web application NSE launched
+[INFO ] 2024-11-25 11:28:39,861 actions.BasePage:28 - Search box found
+[INFO ] 2024-11-25 11:28:40,209 actions.BasePage:30 - Search box clicked
+[INFO ] 2024-11-25 11:28:40,396 actions.BasePage:32 - Stock name: adanient entered in search box
+[INFO ] 2024-11-25 11:28:40,507 actions.BasePage:41 - Stock name clicked from search listing
+[INFO ] 2024-11-25 11:28:41,006 actions.BasePage:47 - Navigated to stock detail page
+[INFO ] 2024-11-25 11:28:41,097 actions.BasePage:37 - Search listing found
+[INFO ] 2024-11-25 11:28:41,145 actions.BasePage:39 - Stock name found
+[INFO ] 2024-11-25 11:28:41,228 actions.BasePage:54 - Stock price data 52 week high found
+[INFO ] 2024-11-25 11:28:41,266 tests.BaseTest:24 - Price data 52 week high matched with actual data
+[INFO ] 2024-11-25 11:28:41,549 actions.BasePage:61 - Stock price data 52 week low found
+[INFO ] 2024-11-25 11:28:41,609 tests.BaseTest:29 - Price data 52 week low matched with actual data
+[INFO ] 2024-11-25 11:28:42,225 tests.BaseTest:114 - Browser closed
+[INFO ] 2024-11-25 11:28:42,719 actions.BasePage:41 - Stock name clicked from search listing
+[INFO ] 2024-11-25 11:28:43,007 actions.BasePage:47 - Navigated to stock detail page
+[INFO ] 2024-11-25 11:28:43,163 actions.BasePage:54 - Stock price data 52 week high found
+[INFO ] 2024-11-25 11:28:43,195 tests.BaseTest:24 - Price data 52 week high matched with actual data
+[INFO ] 2024-11-25 11:28:43,289 actions.BasePage:61 - Stock price data 52 week low found
+[INFO ] 2024-11-25 11:28:43,320 tests.BaseTest:29 - Price data 52 week low matched with actual data
+[INFO ] 2024-11-25 11:28:43,715 tests.BaseTest:114 - Browser closed
